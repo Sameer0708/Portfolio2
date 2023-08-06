@@ -158,6 +158,14 @@ section
     text-decoration: none;
     font-size: 13px;
 }
+.user{
+    border: 1px solid #081b29;
+    border-radius: 10px;
+}
+.user:hover{
+    border: 1px solid #00abf0;
+    background-color: #00abf0;
+}
 .video-card-info .uploaded-time{
     color: #222;
     font-size: 13px;

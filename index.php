@@ -93,7 +93,7 @@
                     </div>
                     <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Ark Studio Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
-                        <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
+                        <a href="https://github.com/Sameer0708/ArkStudio.git" target="_blank" class="user"><i class='bx bxl-github'></i> Source Code</a>
                         <span class="uploaded-time"><i class='bx bx-time-five'></i> Feb 2023</span>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
                     </div>
                     <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Comforty Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
-                        <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
+                        <a href="https://github.com/Sameer0708/ChairyBootstrap.git" target="_blank" class="user"><i class='bx bxl-github'></i> Source Code</a>
                         <span class="uploaded-time"><i class='bx bx-time-five'></i> March 2023</span>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
                     </div>
                     <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Javascript Clock Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
-                        <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
+                        <a href="https://github.com/Sameer0708/JavascriptClock.git" target="_blank" class="user"><i class='bx bxl-github'></i> Source Code</a>
                         <span class="uploaded-time"><i class='bx bx-time-five'></i> April 2023</span>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                     </div>
                     <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Competition Website Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
-                        <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
+                        <a href="https://github.com/Sameer0708/Competition.git" target="_blank" class="user"><i class='bx bxl-github'></i> Source Code</a>
                         <span class="uploaded-time"><i class='bx bx-time-five'></i> May 2023</span>
                     </div>
                 </div>
@@ -152,7 +152,7 @@
                     </div>
                     <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Login Form Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
-                        <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
+                        <a href="https://github.com/Sameer0708/LoginForm" target="_blank" class="user"><i class='bx bxl-github'></i> Source Code</a>
                         <span class="uploaded-time"><i class='bx bx-time-five'></i> May 2023</span>
                     </div>
                 </div>
@@ -166,7 +166,7 @@
                     </div>
                     <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Stack Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
-                        <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
+                        <a href="https://github.com/Sameer0708/Stack" target="_blank" class="user"><i class='bx bxl-github'></i> Source Code</a>
                         <span class="uploaded-time"><i class='bx bx-time-five'></i> May 2023</span>
                     </div>
                 </div>
