@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,13 +8,14 @@
     <meta meta name="viewport" content="width=device-width, user-scalable=no" />
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
-
+    <link rel="icon" href="Images/bye.png" type="image/icon type">
     <link rel="stylesheet" href="style.css">
     <title>Sameer(Portfolio)</title>
 </head>
+
 <body>
     <header class="header">
-        <a href="#" class="logo">Sameer. <span class="animate" style="--i:1;"></span></a>
+        <a href="Images/Navy & White Modern Professional Resume.pdf" target="_blank" class="logo">Sameer. <span class="animate" style="--i:1;"></span></a>
 
         <div class="bx bx-menu" id="menu-icon"><span class="animate" style="--i:2;"></span></div>
 
@@ -41,15 +43,15 @@
                 <span class="animate" style="--i:4;"></span>
             </p>
             <div class="btn-box">
-                <a href="#" class="btn">Hire me</a>
-                <a href="#" class="btn">Let's Talk</a>
+                <a href="#contact" class="btn">Hire me</a>
+                <a href="#contact" class="btn">Let's Talk</a>
                 <span class="animate" style="--i:5;"></span>
             </div>
         </div>
         <div class="home-sci">
-            <a href="#"><i class='bx bxl-facebook' ></i></a>
-            <a href="#"><i class='bx bxl-github' ></i></a>
-            <a href="#"><i class='bx bxl-linkedin' ></i></a>
+            <a href="#contact" target="_blank"><i class='bx bxl-gmail'></i></a>
+            <a href="https://github.com/Sameer0708" target="_blank"><i class='bx bxl-github'></i></a>
+            <a href="https://www.linkedin.com/in/sameer-sahu-48a810251/" target="_blank"><i class='bx bxl-linkedin'></i></a>
             <span class="animate" style="--i:6;"></span>
         </div>
         <div class="home-imghover col-lg-5">
@@ -67,9 +69,9 @@
         </div>
         <div class="about-content">
             <h3>Full Stack Developer<span class="animate scroll" style="--i:3;"></span></h3>
-            <p>I am a Full Stack Developer, I know the basics of Frontend as well as backend development like html5, css as well as 
-                bootstrap and after this I have Designed my Ideas in my Projects from this, I have completed my Full course in Heuristic 
-                Academy, By the help of them I completed this course by full of creativity. 
+            <p>I am a Full Stack Developer, I know the basics of Frontend as well as backend development like html5, css as well as
+                bootstrap and after this I have Designed my Ideas in my Projects from this, I have completed my Full course in Heuristic
+                Academy, By the help of them I completed this course by full of creativity.
                 <span class="animate scroll" style="--i:4;"></span>
             </p>
             <div class="btn-box btns" width="100px" height="5px">
@@ -81,18 +83,18 @@
 
     <section class="projects show-animate" id="projects">
         <h2 class="heading">My <span>Projects</span><span class="animate scroll" style="--i:1;"></span></h2>
-        
+
         <div class="video-card-container">
             <div class="video-card">
                 <div class="video-card-body">
                     <div class="video-thumbnail">
                         <img src="thumbnails Images/ark.png" class="thumb-img" alt="1st-thumbnail">
-                        <video src="videos/ark.mp4" class="thumb-video" muted loop></video>
+                        <video src="videos/ark.mp4" class="thumb-video" muted autoplay loop></video>
                     </div>
                     <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Ark Studio Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
                         <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
-                        <span class="uploaded-time"><i class='bx bx-time-five'></i> 1 day ago</span>
+                        <span class="uploaded-time"><i class='bx bx-time-five'></i> Feb 2023</span>
                     </div>
                 </div>
                 <div class="video-modal-screen">
@@ -104,12 +106,12 @@
                 <div class="video-card-body">
                     <div class="video-thumbnail">
                         <img src="thumbnails Images/chair.png" class="thumb-img" alt="1st-thumbnail">
-                        <video src="videos/chair.mp4" class="thumb-video" muted loop></video>
+                        <video src="videos/chair.mp4" class="thumb-video" muted autoplay loop></video>
                     </div>
-                    <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Ark Studio Based on Heuristic Academy Ideas and my implementation</p>
+                    <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Comforty Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
                         <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
-                        <span class="uploaded-time"><i class='bx bx-time-five'></i> 1 day ago</span>
+                        <span class="uploaded-time"><i class='bx bx-time-five'></i> March 2023</span>
                     </div>
                 </div>
             </div>
@@ -118,12 +120,12 @@
                 <div class="video-card-body">
                     <div class="video-thumbnail">
                         <img src="thumbnails Images/clock.png" class="thumb-img" alt="1st-thumbnail">
-                        <video src="videos/clock.mp4" class="thumb-video" muted loop></video>
+                        <video src="videos/clock.mp4" class="thumb-video" muted autoplay loop></video>
                     </div>
-                    <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Ark Studio Based on Heuristic Academy Ideas and my implementation</p>
+                    <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Javascript Clock Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
                         <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
-                        <span class="uploaded-time"><i class='bx bx-time-five'></i> 1 day ago</span>
+                        <span class="uploaded-time"><i class='bx bx-time-five'></i> April 2023</span>
                     </div>
                 </div>
             </div>
@@ -132,12 +134,12 @@
                 <div class="video-card-body">
                     <div class="video-thumbnail">
                         <img src="thumbnails Images/compo.png" class="thumb-img" alt="1st-thumbnail">
-                        <video src="videos/compo.mp4" class="thumb-video" muted loop></video>
+                        <video src="videos/compo.mp4" class="thumb-video" muted autoplay loop></video>
                     </div>
-                    <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Ark Studio Based on Heuristic Academy Ideas and my implementation</p>
+                    <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Competition Website Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
                         <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
-                        <span class="uploaded-time"><i class='bx bx-time-five'></i> 1 day ago</span>
+                        <span class="uploaded-time"><i class='bx bx-time-five'></i> May 2023</span>
                     </div>
                 </div>
             </div>
@@ -146,12 +148,12 @@
                 <div class="video-card-body">
                     <div class="video-thumbnail">
                         <img src="thumbnails Images/login.png" class="thumb-img" alt="1st-thumbnail">
-                        <video src="videos/stack.mp4" class="thumb-video" muted loop></video>
+                        <video src="videos/login.mp4" class="thumb-video" muted autoplay loop></video>
                     </div>
-                    <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Ark Studio Based on Heuristic Academy Ideas and my implementation</p>
+                    <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Login Form Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
                         <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
-                        <span class="uploaded-time"><i class='bx bx-time-five'></i> 1 day ago</span>
+                        <span class="uploaded-time"><i class='bx bx-time-five'></i> May 2023</span>
                     </div>
                 </div>
             </div>
@@ -160,17 +162,17 @@
                 <div class="video-card-body">
                     <div class="video-thumbnail">
                         <img src="thumbnails Images/stack.png" class="thumb-img" alt="1st-thumbnail">
-                        <video src="videos/stack.mp4" class="thumb-video" muted loop></video>
+                        <video src="videos/stack.mp4" class="thumb-video" muted autoplay loop></video>
                     </div>
-                    <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Ark Studio Based on Heuristic Academy Ideas and my implementation</p>
+                    <p class="video-card-title" title="Ark Studio Based on Heuristic Academy Ideas and my implementation">Stack Based on Heuristic Academy Ideas and my implementation</p>
                     <div class="video-card-info">
                         <a href="" class="user"><i class='bx bxs-user'></i>Sameer Sahu</a>
-                        <span class="uploaded-time"><i class='bx bx-time-five'></i> 1 day ago</span>
+                        <span class="uploaded-time"><i class='bx bx-time-five'></i> May 2023</span>
                     </div>
                 </div>
             </div>
         </div>
-        
+
     </section>
 
     <section class="education" id="education">
@@ -189,7 +191,7 @@
                             </p>
                         </div>
                     </div>
-                    
+
                     <div class="education-content">
                         <div class="content">
                             <div class="year"><i class='bx bxs-calendar'></i>2020 - 2021</div>
@@ -203,7 +205,7 @@
                         <div class="content">
                             <div class="year"><i class='bx bxs-calendar'></i>2022 - 2023</div>
                             <h3>Web Development - Full Stack Development(Heuristic Academy)</h3>
-                            <p>I am pursing my IT Engineering in M.H. Saboo Siddik College Of Engineering, and doing in this I did 
+                            <p>I am pursing my IT Engineering in M.H. Saboo Siddik College Of Engineering, and doing in this I did
                                 My Web Development Course from Heuristic Academy.
                             </p>
                         </div>
@@ -225,7 +227,7 @@
                             </p>
                         </div>
                     </div>
-                    
+
                     <div class="education-content">
                         <div class="content">
                             <div class="year"><i class='bx bxs-calendar'></i>2020 - 2021</div>
@@ -239,12 +241,12 @@
                         <div class="content">
                             <div class="year"><i class='bx bxs-calendar'></i>2022 - 2023</div>
                             <h3>Web Development - Full Stack Development(Heuristic Academy)</h3>
-                            <p>I am pursing my IT Engineering in M.H. Saboo Siddik College Of Engineering, and doing in this I did 
+                            <p>I am pursing my IT Engineering in M.H. Saboo Siddik College Of Engineering, and doing in this I did
                                 My Web Development Course from Heuristic Academy.
                             </p>
                         </div>
                     </div>
-   
+
                 </div>
             </div>
         </div>
@@ -263,12 +265,12 @@
                             <h3>HTML <span>90%</span></h3>
                             <div class="bar"><span></span></div>
                         </div>
-                    
+
                         <div class="progress">
                             <h3>CSS <span>80%</span></h3>
                             <div class="bar"><span></span></div>
                         </div>
-                        
+
                         <div class="progress">
                             <h3>JavaScript <span>85%</span></h3>
                             <div class="bar"><span></span></div>
@@ -291,12 +293,12 @@
                             <h3>C <span>70%</span></h3>
                             <div class="bar"><span></span></div>
                         </div>
-                    
+
                         <div class="progress">
                             <h3>C++ <span>75%</span></h3>
                             <div class="bar"><span></span></div>
                         </div>
-                        
+
                         <div class="progress">
                             <h3>Python <span>85%</span></h3>
                             <div class="bar"><span></span></div>
@@ -316,36 +318,26 @@
     <section class="contact" id="contact">
         <h2 class="heading">Contact <span>Me!</span></h2>
 
-        <form id="action">
+        <form id="action" method="post">
             <div class="input-box">
                 <div class="input-field">
-                    <input type="text" placeholder="Full Name" required>
+                    <input type="text" name="name" placeholder="Full Name" required>
                     <span class="focus"></span>
                 </div>
                 <div class="input-field">
-                    <input type="text" placeholder="Email Address" required>
+                    <input type="text" name="email" placeholder="Email Address" required>
                     <span class="focus"></span>
                 </div>
             </div>
 
-            <div class="input-box">
-                <div class="input-field">
-                    <input type="number" placeholder="Mobile Number" required>
-                    <span class="focus"></span>
-                </div>
-                <div class="input-field">
-                    <input type="text" placeholder="Email Subject" required>
-                    <span class="focus"></span>
-                </div>
-            </div>
 
             <div class="textarea-field">
-                <textarea name="" id="" cols="30" rows="10" placeholder="Your Message" required></textarea>
+                <textarea name="msg" id="" cols="30" rows="10" placeholder="Your Message" required></textarea>
                 <span class="focus"></span>
             </div>
 
             <div class="btn-box btns">
-                <button type="submit" class="btn">Submit</button>
+                <button name="send" type="submit" class="btn">Submit</button>
             </div>
         </form>
     </section>
@@ -364,4 +356,55 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script> -->
 </body>
+
 </html>
+
+<?php
+
+//Import PHPMailer classes into the global namespace
+//These must be at the top of your script, not inside a function
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+if (isset($_POST['send'])) {
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $msg = $_POST['msg'];
+
+    //Load Composer's autoloader
+    require 'PHPMailer/PHPMailer.php';
+    require 'PHPMailer/SMTP.php';
+    require 'PHPMailer/Exception.php';
+
+
+    //Create an instance; passing `true` enables exceptions
+    $mail = new PHPMailer(true);
+
+    try {
+        //Server settings
+        // $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
+        $mail->isSMTP();                                            //Send using SMTP
+        $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
+        $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+        $mail->Username   = 'sahu.211624.et@mhssce.ac.in';                     //SMTP username
+        $mail->Password   = 'zdcrtytqkvlnproj';                               //SMTP password
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
+        $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+
+        //Recipients
+        $mail->setFrom('sahu.211624.et@mhssce.ac.in', 'Contact Form');
+        $mail->addAddress('sahu.211624.et@mhssce.ac.in', 'Sameer Website');     //Add a recipient
+
+        //Content
+        $mail->isHTML(true);                                  //Set email format to HTML
+        $mail->Subject = 'Portfolio Contact Form';
+        $mail->Body    = "Sender Name - $name <br> Sender Email - $email <br> Message - $msg";
+
+        $mail->send();
+        echo "<div class='success'>Message has been Sent!</div>";
+    } catch (Exception $e) {
+        echo "<div class='alert'>Message Couldn't Send </div>";
+    }
+}
+?>

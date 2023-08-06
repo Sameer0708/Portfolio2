@@ -39,21 +39,21 @@ window.onscroll = () =>
     navbar.classList.remove('active');
 }
 //for project section hover effect
-const video_thumbs = document.querySelectorAll(".thumb-video");
+// const video_thumbs = document.querySelectorAll(".thumb-video");
 
-video_thumbs.forEach((video_thumbs) => {
-    video_thumbs.addEventListener("mouseover",function(){
-        this.style.opacity = 1;
-        this.play();
-        this.playbackRate = 2.0;
-    });
-});
-video_thumbs.forEach((video_thumbs) => {
-    video_thumbs.addEventListener("mouseleave",function(){
-        this.style.opacity = 0;
-        this.pause();
-    });
-});
+// video_thumbs.forEach((video_thumbs) => {
+//     video_thumbs.addEventListener("mouseover",function(){
+//         this.style.opacity = 1;
+//         this.play();
+//         this.playbackRate = 2.0;
+//     });
+// });
+// video_thumbs.forEach((video_thumbs) => {
+//     video_thumbs.addEventListener("mouseleave",function(){
+//         this.style.opacity = 0;
+//         this.pause();
+//     });
+// });
 //Jquery for go through each long title to short it with "..."
 $(".video-card-title").each(function(){
     if($(this).text().length > 50) {
