@@ -105,7 +105,7 @@ section
     transition: 0.3s ease
 }
 .video-card{
-    background: #fff;
+    background: aliceblue;
     width: 350px;
     height: 300px;
     margin: 15px;
@@ -191,7 +191,7 @@ section
 .home-content .text-animate
 {
     position: relative;
-    width: 34rem;
+    width: 33rem;
 }
 .home-content .text-animate h3
 {
